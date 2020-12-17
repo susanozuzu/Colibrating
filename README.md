@@ -8,5 +8,4 @@
  * Fry it
  * And voila, it's Ready!!
 
- > Click for more recipes
- 
+ ##### Click for more recipes
